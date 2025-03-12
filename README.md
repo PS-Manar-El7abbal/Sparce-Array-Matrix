@@ -19,12 +19,11 @@ This project is part of the course **"Mastering Critical Thinking in Data Struct
 ## 📂 Explore the Code
 Feel free to dive into the code and see how these concepts are implemented. It's a project that brings both theory and practice together in a fun and engaging way!
 
-## 🐾 Coding Cat Vibes
-Here's a little coding cat to accompany your learning journey! 😸
+## 👩‍💻 Coding Girl Vibes
+Here's a little coding girl to accompany your learning journey! 😄
 
-![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Coding Girl](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
 ---
 
 Happy coding and exploring! 🚀✨
-
