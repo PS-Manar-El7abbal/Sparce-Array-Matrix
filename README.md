@@ -19,7 +19,7 @@ This project is part of the course **"Mastering Critical Thinking in Data Struct
 ## 📂 Explore the Code
 Feel free to dive into the code and see how these concepts are implemented. It's a project that brings both theory and practice together in a fun and engaging way!
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
 ---
 
