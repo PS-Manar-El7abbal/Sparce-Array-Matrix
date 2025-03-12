@@ -13,11 +13,11 @@ This project is part of the course **"Mastering Critical Thinking in Data Struct
 
 ## 💻 Why This Project is Interesting
 - It demonstrates how to handle large datasets with minimal memory usage.
-- It leverages the power of **double linked lists** for efficient insertions and deletions.
+- It shows the power of **double linked lists** for efficient insertions and deletions.
 - It's an excellent example of applying critical thinking in data structures.
 
 ## 📂 Explore the Code
-Feel free to dive into the code and see how these concepts are implemented. It's a project that brings both theory and practice together in a fun and engaging way!
+feel free to see my code 😊
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
